@@ -1,2 +1,3 @@
-# olamundo
- primeiro repositorio do curso git e gitbub
+# olá mundo
+ primeiro repositorio do curso git e gitbub!
+ 
